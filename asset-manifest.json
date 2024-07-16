@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Weather-App/static/css/main.fa1bbf7f.css",
+    "main.js": "/Weather-App/static/js/main.bcbb2e3b.js",
+    "static/js/453.ed3810f9.chunk.js": "/Weather-App/static/js/453.ed3810f9.chunk.js",
+    "static/media/DeWatermark.ai_1721056739125.png": "/Weather-App/static/media/DeWatermark.ai_1721056739125.76bb959def2d2950559f.png",
+    "static/media/vecteezy_abstract-blue-fluid-wave-background_.jpg": "/Weather-App/static/media/vecteezy_abstract-blue-fluid-wave-background_.2a24cd4753cecbd9d06a.jpg",
+    "index.html": "/Weather-App/index.html",
+    "main.fa1bbf7f.css.map": "/Weather-App/static/css/main.fa1bbf7f.css.map",
+    "main.bcbb2e3b.js.map": "/Weather-App/static/js/main.bcbb2e3b.js.map",
+    "453.ed3810f9.chunk.js.map": "/Weather-App/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa1bbf7f.css",
+    "static/js/main.bcbb2e3b.js"
+  ]
+}
