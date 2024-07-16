@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Weather-App/static/css/main.549aaad4.css",
-    "main.js": "/Weather-App/static/js/main.56a91987.js",
+    "main.css": "/Weather-App/static/css/main.4129730d.css",
+    "main.js": "/Weather-App/static/js/main.f4426afd.js",
     "static/js/453.ed3810f9.chunk.js": "/Weather-App/static/js/453.ed3810f9.chunk.js",
     "static/media/DeWatermark.ai_1721056739125.png": "/Weather-App/static/media/DeWatermark.ai_1721056739125.76bb959def2d2950559f.png",
     "static/media/vecteezy_abstract-blue-fluid-wave-background_.jpg": "/Weather-App/static/media/vecteezy_abstract-blue-fluid-wave-background_.2a24cd4753cecbd9d06a.jpg",
     "index.html": "/Weather-App/index.html",
-    "main.549aaad4.css.map": "/Weather-App/static/css/main.549aaad4.css.map",
-    "main.56a91987.js.map": "/Weather-App/static/js/main.56a91987.js.map",
+    "main.4129730d.css.map": "/Weather-App/static/css/main.4129730d.css.map",
+    "main.f4426afd.js.map": "/Weather-App/static/js/main.f4426afd.js.map",
     "453.ed3810f9.chunk.js.map": "/Weather-App/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.549aaad4.css",
-    "static/js/main.56a91987.js"
+    "static/css/main.4129730d.css",
+    "static/js/main.f4426afd.js"
   ]
 }
